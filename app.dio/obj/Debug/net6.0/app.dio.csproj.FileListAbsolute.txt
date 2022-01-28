@@ -1,0 +1,15 @@
+C:\app.dio\bin\Debug\net6.0\app.dio.exe
+C:\app.dio\bin\Debug\net6.0\app.dio.deps.json
+C:\app.dio\bin\Debug\net6.0\app.dio.runtimeconfig.json
+C:\app.dio\bin\Debug\net6.0\app.dio.dll
+C:\app.dio\bin\Debug\net6.0\ref\app.dio.dll
+C:\app.dio\bin\Debug\net6.0\app.dio.pdb
+C:\app.dio\obj\Debug\net6.0\app.dio.csproj.AssemblyReference.cache
+C:\app.dio\obj\Debug\net6.0\app.dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\app.dio\obj\Debug\net6.0\app.dio.AssemblyInfoInputs.cache
+C:\app.dio\obj\Debug\net6.0\app.dio.AssemblyInfo.cs
+C:\app.dio\obj\Debug\net6.0\app.dio.csproj.CoreCompileInputs.cache
+C:\app.dio\obj\Debug\net6.0\app.dio.dll
+C:\app.dio\obj\Debug\net6.0\ref\app.dio.dll
+C:\app.dio\obj\Debug\net6.0\app.dio.pdb
+C:\app.dio\obj\Debug\net6.0\app.dio.genruntimeconfig.cache
